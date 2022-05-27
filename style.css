@@ -1,0 +1,18 @@
+#press{
+    box-shadow: 9px 8px 14px steelblue;
+}
+#heading{
+    width: 100%;
+}
+#heading_title{
+    float: left;
+}
+#instructions{
+    float: right;
+}
+#footer{
+    width: 100%;
+    background-color: aquamarine;
+    margin-bottom: 0;
+    position: sticky;
+}
